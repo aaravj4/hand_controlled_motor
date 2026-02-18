@@ -47,11 +47,12 @@ hand_controlled_motor/
 9. everything else should be the default settings for the PlatformIO project
 10. Plug in ESP32
 11. Click checkmark(build and upload) to flash code to ESP32
-
+    
+**Note**: Strongly recommend to not pull the entire repo into your local project path. Just clone the repo and get specific files and folders.
 
 
 ## Running program
-- git clone <your-repo-url>
+- git clone <[your-repo-url](https://github.com/aaravj4/hand_controlled_motor)>
 - cd hand_controlled_motor
 - git checkout windows-esp32
 - cd python
