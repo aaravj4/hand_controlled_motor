@@ -52,7 +52,7 @@ hand_controlled_motor/
 
 
 ## Running program
-- git clone <[https://github.com/aaravj4/hand_controlled_motor]>
+- git clone https://github.com/aaravj4/hand_controlled_motor
 - cd hand_controlled_motor
 - git checkout windows-esp32
 - cd python
