@@ -39,8 +39,8 @@ pip install -r requirements.txt
 ```
 
 ## Running program
-git clone <your-repo-url>
-cd hand_controlled_motor
-git checkout windows-esp32
-cd python
-python hand_motor_control.py
+- git clone <your-repo-url>
+- cd hand_controlled_motor
+- git checkout windows-esp32
+- cd python
+- python hand_motor_control.py
